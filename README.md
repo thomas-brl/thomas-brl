@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas%20BRULU&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=Bachelor%E2%80%99s%20degree%20in%20Computer%20Science&descSize=22&descColor=FFFFFF&descAlignY=77" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas%20BRULU&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50&desc=Bachelor%E2%80%99s%20degree%20in%20Computer%20Science&descSize=22&descColor=FFFFFF&descAlignY=77" width="100%"/>
 
 ## 🎯 Areas of Interest
 ### 🛡️ CYBERSECURITY
