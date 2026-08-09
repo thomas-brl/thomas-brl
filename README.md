@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas%20BRULU&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50&desc=Bachelor%E2%80%99s%20degree%20in%20Computer%20Science&descSize=22&descColor=FFFFFF&descAlignY=77" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas%20BRULU&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50descColor=FFFFFF&descAlignY=77" width="100%"/>
 
 ## 🎯 Areas of Interest
 ### 🛡️ CYBERSECURITY
@@ -11,30 +11,10 @@
 - Network Security
 - Network Architecture
 
-### 🤖 ARTIFICIAL INTELLIGENCE & DATA
-- Machine Learning
-- Data Analysis
-- Data Science
-
-### ☁️ CLOUD INFRASTRUCTURE
-- DevOps
-- Cloud Computing
-- Virtualization
-
 ### 💻 SOFTWARE DEVELOPMENT
 - Web Development
 - Application Development
 - Open Source Development
-
-### 🧠 PROGRAMMING
-- Object-Oriented Programming
-- Algorithms
-- Data Structures
-
-### 📡 CONNECTED SYSTEMS
-- Internet of Things (IoT)
-- Embedded Systems
-- Edge Computing
 
 <br/>
 
