@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas%20BRULU&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50descColor=FFFFFF&descAlignY=77" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50descColor=FFFFFF&descAlignY=77" width="100%"/>
 
 ## 🎯 Areas of Interest
 ### 🛡️ CYBERSECURITY
