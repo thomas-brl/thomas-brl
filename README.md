@@ -29,7 +29,7 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,mysql,docker,firebase,flask,threejs,gradle,vscode,ae,blender,sketchup,robloxstudio" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,gitlab,androidstudio,mysql,docker,firebase,flask,threejs,ae,blender,sketchup,robloxstudio" /></a>
 </p>
 
 <h3 align="center">Operating Systems</h3>
