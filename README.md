@@ -1,24 +1,41 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Thomas&fontSize=60&fontColor=7f7f7f&animation=fadeIn&fontAlignY=50descColor=FFFFFF&descAlignY=77" width="100%"/>
 
-## 🎯 Areas of Interest
-### 🛡️ CYBERSECURITY
-- Penetration Testing
-- Application Security
-- Cryptography
+<h1 align="center">🎯 Areas of Interest</h1>
 
-### 🌐 NETWORKS
-- Network and Computer Systems Administration
-- Network Engineering
-- Network Security
+<div align="center">
 
-### 💻 SOFTWARE DEVELOPMENT
-- Open Source Development
-- Application Development
-- Web Development
+<table>
+<tr>
+<td valign="top">
+
+<h2>🛡️ Cybersecurity</h2>
+
+<ul>
+  <li>Penetration Testing</li>
+  <li>Application Security</li>
+  <li>Cryptography</li>
+</ul>
+
+</td>
+<td valign="top">
+
+<h2>💻 Development</h2>
+
+<ul>
+  <li>Open Source Development</li>
+  <li>Application Development</li>
+  <li>Web Development</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-## 🛠️ Tech Stack
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <h3 align="center">Languages</h3>
 
